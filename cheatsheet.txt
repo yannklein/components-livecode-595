@@ -1,0 +1,17 @@
+Rating:
+<i class="fas fa-star"></i>
+<i class="fas fa-heart"></i>
+
+Product: 
+https://ksr-ugc.imgix.net/assets/033/191/455/47623d1cc5bec476c601561c34d9007f_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1618868812&auto=format&frame=1&q=92&s=fd8678b4068ca6dda6e3fde80b30bbd4
+
+Video:
+https://v.kickstarter.com/1620459340_769198b6ee2e552e950063ea0c9e585c0a29cfea/projects/4150343/video-1100691-h264_high.mp4
+
+Images:
+
+https://ksr-ugc.imgix.net/assets/033/185/556/acfc3278be58fc8dd541f3bc194b897e_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1618845738&auto=format&frame=1&q=92&s=8f57f47b231a85535181bc2a24d8f514
+
+https://ksr-ugc.imgix.net/assets/033/187/424/3c48bde64a35e3474e3ed7067f1ccc43_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1618853050&auto=format&frame=1&lossless=true&s=240399b9f48b7129e25f75aaa549701e
+
+https://ksr-ugc.imgix.net/assets/033/234/429/56ac38307f3443513ff1058ee785dfa0_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1619097757&auto=format&frame=1&lossless=true&s=8b5c918061087bf35132d4caabc4a445
